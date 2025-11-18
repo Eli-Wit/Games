@@ -1,0 +1,149 @@
+African Elephant
+Alligator
+Alpaca
+Alpaca
+Angelfish
+Antelope
+Arctic Fox
+Armadillo
+Asian Elephant
+Baboon
+Barracuda
+Beagle
+Bison
+Bison
+Black Bear
+Blue Jay
+Boar
+Boxer
+Buffalo
+Bull
+Bulldog
+Camel
+Camel
+Canary
+Cheetah
+Cheetah
+Chimpanzee
+Chimpanzee
+Chinchilla
+Chipmunk
+Clownfish
+Corgi
+Cow
+Coyote
+Crab
+Crocodile
+Cuckoo
+Dalmatian
+Deer
+Deer
+Dingo
+Dolphin
+Donkey
+Duck
+Eagle
+Elephant
+Emu
+Falcon
+Flamingo
+Gazelle
+Gazelle
+German Shepherd
+Giraffe
+Giraffe
+Goat
+Golden Retriever
+Goose
+Gorilla
+Gorilla
+Gray Wolf
+Great Dane
+Grizzly Bear
+Hammerhead Shark
+Hawk
+Hedgehog
+Hippopotamus
+Hippopotamus
+Horse
+Hummingbird
+Husky
+Hyena
+Impala
+Jackal
+Jaguar
+Jellyfish
+Kangaroo
+Kangaroo Rat
+Koala
+Koala
+Koala Bear
+Labrador Retriever
+Lemur
+Leopard
+Lion
+Lion
+Lionfish
+Lizard
+Llama
+Llama
+Lobster
+Meerkat
+Monkey
+Moose
+Moose
+Octopus
+Opossum
+Orangutan
+Orangutan
+Ostrich
+Owl
+Panda Bear
+Panther
+Parrot
+Peacock
+Pelican
+Penguin
+Pig
+Piranha
+Platypus
+Platypus
+Polar Bear
+Poodle
+Porcupine
+Raccoon
+Red Fox
+Red Panda
+Rhinoceros
+Rhinoceros
+Rottweiler
+Salmon
+Seahorse
+Shark
+Sheep
+Sheepdog
+Skunk
+Sloth
+Snake
+Sparrow
+Squirrel
+Star-nosed Mole
+Starfish
+Stingray
+Sugar Glider
+Swan
+Swordfish
+Tiger
+Tiger
+Tortoise
+Toucan
+Trout
+Turtle
+Wallaby
+Water Buffalo
+Whale
+Wildebeest
+Woodpecker
+Yak
+Zebra
+Zebra
